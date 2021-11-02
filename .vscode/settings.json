@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/05fb4614-b1e7-470d-b6e1-6658a4a4564a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/TestLinuxCoreMyApp"
+}
